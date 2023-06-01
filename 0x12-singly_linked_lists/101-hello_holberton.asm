@@ -1,5 +1,5 @@
 ; File: 101-hello_holberton.asm
-; Auth: Richard
+; Auth: Toyosi
 ; Desc: Program that prints
 ; Hello, Holberton followed by a new line.
 
